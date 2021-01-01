@@ -9,4 +9,4 @@ Leetcode solutions in C++.
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
 
 ## Double Pointers
-- [Two Sum II - Input array is sorted](double-pointers/167-two-sum-ii.cpp)
+- [167. Two Sum II - Input array is sorted](double-pointers/167-two-sum-ii.cpp)
