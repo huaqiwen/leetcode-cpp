@@ -1,7 +1,8 @@
 // ID: 452
 // Title: Minimum Number of Arrows to Burst Balloons
-// URL: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 // Type: Greedy Algorithm
+// Difficulty: Medium
+// URL: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
 #include <iostream>
 #include <vector>
