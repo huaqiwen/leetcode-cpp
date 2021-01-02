@@ -20,6 +20,7 @@ Leetcode solutions in C++.
 - [633. Sum of Square Numbers](double-pointers/633-sum-square-numbers.cpp)
 
 ## Binary Search <a name="bin-search">
+- [4. Median of Two Sorted Arrays](binary-search/4-median-of-two-sorted-arr.cpp)
 - [34. Find First and Last Position of Element in Sorted Array](binary-search/34-first-last-pos-of-elem-in-arr.cpp)
 - [81. Search in Rotated Sorted Array II](binary-search/81-search-rotated-sorted-arr.cpp)
 - [154. Find Minimum in Rotated Sorted Array II](binary-search/154-find-min-in-rotated-sorted-arr.cpp)
