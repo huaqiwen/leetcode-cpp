@@ -40,7 +40,7 @@ bool search(vector<int>& nums, int target) {
             } else {
                 l = m + 1;
             }
-        } else {                                // mid value = last value, move right_ptr left 1 bit
+        } else {                            // mid value = last value, move right_ptr left 1 bit
             r--;
         }
     }
