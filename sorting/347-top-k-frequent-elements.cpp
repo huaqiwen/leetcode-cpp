@@ -7,14 +7,13 @@
 #include <iostream>
 #include <vector>
 #include <unordered_map>
-#include <algorithm>
 
 using namespace std;
 
 vector<int> topKFrequent(vector<int>& nums, int k);
 
 int main() {
-    vector<int> in = {1, 2};
+    vector<int> in = {7, 7, 7, 1, 7, 7, 1, 1, 1, 2, 2, 3, 4};
     vector<int> out = topKFrequent(in, 2);
     for (int& o : out)
         cout << o << endl;
