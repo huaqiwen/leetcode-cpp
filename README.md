@@ -4,6 +4,7 @@ Leetcode solutions in C++.
 ## Contents 📦
 1. [Greedy Algorithms](#greedy)
 2. [Double Pointers](#double-ptr)
+3. [Binary Search](#bin-search)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -18,7 +19,7 @@ Leetcode solutions in C++.
 - [167. Two Sum II - Input array is sorted](double-pointers/167-two-sum-ii.cpp)
 - [633. Sum of Square Numbers](double-pointers/633-sum-square-numbers.cpp)
 
-## Binary Search
+## Binary Search <a name="bin-search">
 - [34. Find First and Last Position of Element in Sorted Array](binary-search/34-first-last-pos-of-elem-in-arr.cpp)
 - [81. Search in Rotated Sorted Array II](binary-search/81-search-rotated-sorted-arr.cpp)
 - [154. Find Minimum in Rotated Sorted Array II](binary-search/154-find-min-in-rotated-sorted-arr.cpp)
