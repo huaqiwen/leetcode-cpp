@@ -28,6 +28,7 @@ Leetcode solutions in C++.
 - [540. Single Element in a Sorted Array](binary-search/540-single-element-in-sorted-arr.cpp)
 
 ## Sorting <a name="sorting">
+- [75. Sort Colors](sorting/75-sort-colors.cpp)
 - [215. Kth Largest Element in an Array](sorting/215-kth-largest-elem-in-arr.cpp)
 - [347. Top K Frequent Elements](sorting/347-top-k-frequent-elements.cpp)
 - [451. Sort Characters By Frequency](sorting/451-sort-chars-by-frequency.cpp)
