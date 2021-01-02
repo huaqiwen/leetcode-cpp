@@ -1,8 +1,8 @@
-// ID: 76
-// Title: Minimum Windows Substring
+// ID: 633
+// Title: Sum of Square Numbers
 // Type: Two Pointers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/minimum-window-substring/
+// URL: https://leetcode.com/problems/sum-of-square-numbers/
 
 #include <iostream>
 #include <cmath>
