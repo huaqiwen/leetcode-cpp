@@ -23,3 +23,4 @@ Leetcode solutions in C++.
 - [34. Find First and Last Position of Element in Sorted Array](binary-search/34-first-last-pos-of-elem-in-arr.cpp)
 - [81. Search in Rotated Sorted Array II](binary-search/81-search-rotated-sorted-arr.cpp)
 - [154. Find Minimum in Rotated Sorted Array II](binary-search/154-find-min-in-rotated-sorted-arr.cpp)
+- [540. Single Element in a Sorted Array](binary-search/540-single-element-in-sorted-arr.cpp)
