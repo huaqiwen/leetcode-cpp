@@ -5,6 +5,7 @@ Leetcode solutions in C++.
 1. [Greedy Algorithms](#greedy)
 2. [Double Pointers](#double-ptr)
 3. [Binary Search](#bin-search)
+4. [Sorting](#sorting)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -25,3 +26,6 @@ Leetcode solutions in C++.
 - [81. Search in Rotated Sorted Array II](binary-search/81-search-rotated-sorted-arr.cpp)
 - [154. Find Minimum in Rotated Sorted Array II](binary-search/154-find-min-in-rotated-sorted-arr.cpp)
 - [540. Single Element in a Sorted Array](binary-search/540-single-element-in-sorted-arr.cpp)
+
+## Sorting <a name="sorting">
+- [215. Kth Largest Element in an Array](sorting/215-kth-largest-elem-in-arr.cpp)
