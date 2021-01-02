@@ -32,9 +32,8 @@ vector<int> topKFrequent(vector<int>& nums, int k) {
     
     // for all i, buckets[i] contains the numbers that occurs i times
     vector<vector<int>> buckets(max_count + 1);
-    for(auto& count : counts) {
+    for(auto& count : counts)
         buckets[count.second].push_back(count.first);
-    }
 
     // we want k items from the last few buckets
     vector<int> res;

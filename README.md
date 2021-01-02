@@ -30,3 +30,4 @@ Leetcode solutions in C++.
 ## Sorting <a name="sorting">
 - [215. Kth Largest Element in an Array](sorting/215-kth-largest-elem-in-arr.cpp)
 - [347. Top K Frequent Elements](sorting/347-top-k-frequent-elements.cpp)
+- [451. Sort Characters By Frequency](sorting/451-sort-chars-by-frequency.cpp)
