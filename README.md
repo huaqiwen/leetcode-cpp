@@ -35,4 +35,5 @@ Leetcode solutions in C++.
 - [451. Sort Characters By Frequency](sorting/451-sort-chars-by-frequency.cpp)
 
 ## Search <a name="search">
+- [46. Permutations](search/46-permutations.cpp)
 - [695. Max Area of Island](search/695-max-area-of-island.cpp)
