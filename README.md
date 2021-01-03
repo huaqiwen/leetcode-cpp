@@ -37,4 +37,5 @@ Leetcode solutions in C++.
 ## Search <a name="search">
 - [46. Permutations](search/46-permutations.cpp)
 - [77. Combinations](search/77-combinations.cpp)
+- [79. Word Search](search/79-word-search.cpp)
 - [695. Max Area of Island](search/695-max-area-of-island.cpp)
