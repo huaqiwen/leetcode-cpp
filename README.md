@@ -7,6 +7,9 @@ Leetcode solutions in C++.
 3. [Binary Search](#bin-search)
 4. [Sorting](#sorting)
 5. [Search](#search)
+    1. [DFS](#dfs)
+    2. [Backtracking](#backtrack)
+    3. [BFS](#bfs)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -35,9 +38,12 @@ Leetcode solutions in C++.
 - [451. Sort Characters By Frequency](sorting/451-sort-chars-by-frequency.cpp)
 
 ## Search <a name="search">
+### DFS <a name="dfs">
+- [695. Max Area of Island](search/695-max-area-of-island.cpp)
+### Backtracking <a name="backtrack">
 - [46. Permutations](search/46-permutations.cpp)
 - [51. N-Queens](search/51-n-queens.cpp)
 - [77. Combinations](search/77-combinations.cpp)
 - [79. Word Search](search/79-word-search.cpp)
-- [695. Max Area of Island](search/695-max-area-of-island.cpp)
+### BFS <a name="bfs">
 - [934. Shortest Bridge](search/934-shortest-bridge.cpp)
