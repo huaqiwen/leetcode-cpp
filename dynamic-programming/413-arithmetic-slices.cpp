@@ -6,6 +6,7 @@
 
 #include <iostream>
 #include <vector>
+#include <numeric>
 
 using namespace std;
 
@@ -27,7 +28,5 @@ int numberOfArithmeticSlices(vector<int>& A) {
             dp[i] = dp[i-1] + 1;
     }
 
-    int res = 0;
-    for (int n : dp) res += n;
-    return res;
+    return accumulate(dp.begin(), dp.end(), 0);
 }
