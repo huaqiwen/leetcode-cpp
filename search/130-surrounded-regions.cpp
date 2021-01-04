@@ -29,7 +29,6 @@ void solve(vector<vector<char>>& board) {
     if (board.size() <= 2 || board[0].size() <= 2) return;
 
     // mark all free nodes as 'F'
-    vector<pair<int, int>> free_nodes;
     for (int i = 0; i < board.size(); i++) {
         for (int j = 0; j < board[0].size(); j++) {
             // if current node is a border node and is open, dfs to flip all its connected nodes
