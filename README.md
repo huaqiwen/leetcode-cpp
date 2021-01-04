@@ -43,6 +43,7 @@ Leetcode solutions in C++.
 - [257. Binary Tree Paths](search/257-binary-tree-paths.cpp)
 - [695. Max Area of Island](search/695-max-area-of-island.cpp)
 ### Backtracking <a name="backtrack">
+- [37. Sudoku Solver](search/37-sudoku-solver.cpp)
 - [46. Permutations](search/46-permutations.cpp)
 - [51. N-Queens](search/51-n-queens.cpp)
 - [77. Combinations](search/77-combinations.cpp)
