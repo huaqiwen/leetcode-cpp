@@ -50,4 +50,5 @@ Leetcode solutions in C++.
 - [79. Word Search](search/79-word-search.cpp)
 ### BFS <a name="bfs">
 - [126. Word Ladder II](search/126-word-ladder-ii.cpp)
+- [310. Minimum Height Trees](search/310-min-height-trees.cpp)
 - [934. Shortest Bridge](search/934-shortest-bridge.cpp)
