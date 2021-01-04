@@ -39,6 +39,7 @@ Leetcode solutions in C++.
 
 ## Search <a name="search">
 ### DFS <a name="dfs">
+- [130. Surrounded Regions](search/130-surrounded-regions.cpp)
 - [257. Binary Tree Paths](search/257-binary-tree-paths.cpp)
 - [695. Max Area of Island](search/695-max-area-of-island.cpp)
 ### Backtracking <a name="backtrack">
