@@ -10,6 +10,7 @@ Leetcode solutions in C++.
     1. [DFS](#dfs)
     2. [Backtracking](#backtrack)
     3. [BFS](#bfs)
+6. [Dynamic Programming](#dp)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -52,3 +53,6 @@ Leetcode solutions in C++.
 - [126. Word Ladder II](search/126-word-ladder-ii.cpp)
 - [310. Minimum Height Trees](search/310-min-height-trees.cpp)
 - [934. Shortest Bridge](search/934-shortest-bridge.cpp)
+
+## Dynamic Programming <a name="dp">
+- [198. House Robber](dynamic-programming/198-house-robber.cpp)
