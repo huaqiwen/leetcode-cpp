@@ -56,3 +56,4 @@ Leetcode solutions in C++.
 
 ## Dynamic Programming <a name="dp">
 - [198. House Robber](dynamic-programming/198-house-robber.cpp)
+- [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
