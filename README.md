@@ -58,5 +58,6 @@ Leetcode solutions in C++.
 - [64. Minimum Path Sum](dynamic-programming/64-min-path-sum.cpp)
 - [198. House Robber](dynamic-programming/198-house-robber.cpp)
 - [221. Maximal Square](dynamic-programming/221-max-square.cpp)
+- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
 - [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
 - [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
