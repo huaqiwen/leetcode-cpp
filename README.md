@@ -65,3 +65,4 @@ Leetcode solutions in C++.
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
 - [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
 - [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
+- [1143. Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.cpp)
