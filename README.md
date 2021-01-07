@@ -11,6 +11,11 @@ Leetcode solutions in C++.
     2. [Backtracking](#backtrack)
     3. [BFS](#bfs)
 6. [Dynamic Programming](#dp)
+    1. [1D Basic](#dp-1d)
+    2. [2D Basic](#dp-2d)
+    3. [Dividing Problem](#dp-divide)
+    4. [Subsequence Problem](#dp-subseq)
+    4. [Knapsack Problem](#dp-knapsack)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -55,14 +60,20 @@ Leetcode solutions in C++.
 - [934. Shortest Bridge](search/934-shortest-bridge.cpp)
 
 ## Dynamic Programming <a name="dp">
+### 1D Basic <a name="dp-1d">
+- [198. House Robber](dynamic-programming/198-house-robber.cpp)
+- [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
+### 2D Basic <a name="dp-2d">
 - [64. Minimum Path Sum](dynamic-programming/64-min-path-sum.cpp)
+- [221. Maximal Square](dynamic-programming/221-max-square.cpp)
+- [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
+### Dividing Problem <a name="dp-divide">
+- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
 - [91. Decode Ways](dynamic-programming/91-decode-ways.cpp)
 - [139. Word Break](dynamic-programming/139-word-break.cpp)
-- [198. House Robber](dynamic-programming/198-house-robber.cpp)
-- [221. Maximal Square](dynamic-programming/221-max-square.cpp)
-- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
+### Subsequence Problem <a name="dp-subseq">
 - [300. Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subseq.cpp)
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
-- [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
-- [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
 - [1143. Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.cpp)
+### Knapsack Problem <a name="dp-knapsack">
+- [416. Partition Equal Subset Sum](dynamic-programming/416-partition-equal-subset-sum.cpp)
