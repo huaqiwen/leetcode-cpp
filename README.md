@@ -82,3 +82,4 @@ Leetcode solutions in C++.
 - [474. Ones and Zeroes](dynamic-programming/474-ones-and-zeroes.cpp)
 ### String Manipulation <a name="dp-str">
 - [72. Edit Distance](dynamic-programming/72-edit-distance.cpp)
+- [650. 2 Keys Keyboard](dynamic-programming/650-two-keys-keyboard.cpp)
