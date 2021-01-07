@@ -16,6 +16,7 @@ Leetcode solutions in C++.
     3. [Dividing Problem](#dp-divide)
     4. [Subsequence Problem](#dp-subseq)
     4. [Knapsack Problem](#dp-knapsack)
+    5. [String Manipulation](#dp-str)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -79,3 +80,5 @@ Leetcode solutions in C++.
 - [322. Coin Change](dynamic-programming/322-coin-change.cpp)
 - [416. Partition Equal Subset Sum](dynamic-programming/416-partition-equal-subset-sum.cpp)
 - [474. Ones and Zeroes](dynamic-programming/474-ones-and-zeroes.cpp)
+### String Manipulation <a name="dp-str">
+- [72. Edit Distance](dynamic-programming/72-edit-distance.cpp)
