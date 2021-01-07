@@ -76,5 +76,6 @@ Leetcode solutions in C++.
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
 - [1143. Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.cpp)
 ### Knapsack Problem <a name="dp-knapsack">
+- [322. Coin Change](dynamic-programming/322-coin-change.cpp)
 - [416. Partition Equal Subset Sum](dynamic-programming/416-partition-equal-subset-sum.cpp)
 - [474. Ones and Zeroes](dynamic-programming/474-ones-and-zeroes.cpp)
