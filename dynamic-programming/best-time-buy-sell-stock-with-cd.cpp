@@ -43,7 +43,7 @@ int maxProfit(vector<int>& prices) {
     return max(sell[n-1], s2[n-1]);
 
     // The code below slightly reduces the memory usage. 
-
+    {
     // int buy, sell, s1, s2;
     // buy = s1 = -prices[0];
     // sell = s2 = 0;
@@ -58,4 +58,5 @@ int maxProfit(vector<int>& prices) {
     // }
 
     // return max(sell, s2);
+    }
 }
