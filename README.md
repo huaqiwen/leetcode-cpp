@@ -64,6 +64,7 @@ Leetcode solutions in C++.
 ## Dynamic Programming <a name="dp">
 ### 1D Basic <a name="dp-1d">
 - [198. House Robber](dynamic-programming/198-house-robber.cpp)
+- [213. House Robber II](dynamic-programming/213-house-robber-ii.cpp)
 - [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
 ### 2D Basic <a name="dp-2d">
 - [64. Minimum Path Sum](dynamic-programming/64-min-path-sum.cpp)
