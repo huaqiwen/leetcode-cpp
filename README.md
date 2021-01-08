@@ -17,6 +17,7 @@ Leetcode solutions in C++.
     4. [Subsequence Problem](#dp-subseq)
     4. [Knapsack Problem](#dp-knapsack)
     5. [String Manipulation](#dp-str)
+    6. [Stock](#dp-stock)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -84,3 +85,5 @@ Leetcode solutions in C++.
 - [10. Regular Expression Matching](dynamic-programming/10-regex-matching.cpp)
 - [72. Edit Distance](dynamic-programming/72-edit-distance.cpp)
 - [650. 2 Keys Keyboard](dynamic-programming/650-two-keys-keyboard.cpp)
+### Stock <a name="dp-stock">
+- [188. Best Time to Buy and Sell Stock IV](dynamic-programming/188-best-time-buy-sell-stock-iv.cpp)
