@@ -71,9 +71,10 @@ Leetcode solutions in C++.
 - [221. Maximal Square](dynamic-programming/221-max-square.cpp)
 - [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
 ### Dividing Problem <a name="dp-divide">
-- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
 - [91. Decode Ways](dynamic-programming/91-decode-ways.cpp)
 - [139. Word Break](dynamic-programming/139-word-break.cpp)
+- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
+- [343. Integer Break](dynamic-programming/343-integer-break.cpp)
 ### Subsequence Problem <a name="dp-subseq">
 - [300. Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subseq.cpp)
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
