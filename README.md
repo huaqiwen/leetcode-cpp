@@ -78,6 +78,7 @@ Leetcode solutions in C++.
 ### Subsequence Problem <a name="dp-subseq">
 - [300. Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subseq.cpp)
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
+- [583. Delete Operation for Two Strings](dynamic-programming/583-delete-operation-two-strs.cpp)
 - [1143. Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.cpp)
 ### Knapsack Problem <a name="dp-knapsack">
 - [322. Coin Change](dynamic-programming/322-coin-change.cpp)
