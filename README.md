@@ -18,6 +18,7 @@ Leetcode solutions in C++.
     4. [Knapsack Problem](#dp-knapsack)
     5. [String Manipulation](#dp-str)
     6. [Stock](#dp-stock)
+7. [Divide and Conquer](#dac)
 
 ## Greedy Algorithms <a name="greedy">
 - [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
@@ -96,3 +97,5 @@ Leetcode solutions in C++.
 - [188. Best Time to Buy and Sell Stock IV](dynamic-programming/188-best-time-buy-sell-stock-iv.cpp)
 - [309. Best Time to Buy and Sell Stock with Cooldown](dynamic-programming/309-best-time-buy-sell-stock-with-cd.cpp)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](dynamic-programming/714-best-time-buy-sell-stock-with-fee.cpp)
+
+## Divide and Conquer <a name="dac">
