@@ -86,6 +86,7 @@ Leetcode solutions in C++.
 - [322. Coin Change](dynamic-programming/322-coin-change.cpp)
 - [416. Partition Equal Subset Sum](dynamic-programming/416-partition-equal-subset-sum.cpp)
 - [474. Ones and Zeroes](dynamic-programming/474-ones-and-zeroes.cpp)
+- [494. Target Sum](dynamic-programming/494-target-sum.cpp)
 ### String Manipulation <a name="dp-str">
 - [10. Regular Expression Matching](dynamic-programming/10-regex-matching.cpp)
 - [72. Edit Distance](dynamic-programming/72-edit-distance.cpp)
