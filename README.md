@@ -76,6 +76,7 @@ Leetcode solutions in C++.
 - [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
 - [343. Integer Break](dynamic-programming/343-integer-break.cpp)
 ### Subsequence Problem <a name="dp-subseq">
+- [32. Longest Valid Parentheses](dynamic-programming/32-longest-valid-parentheses.cpp)
 - [300. Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subseq.cpp)
 - [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
 - [376. Wiggle Subsequence](dynamic-programming/376-wiggle-subsequence.cpp)
