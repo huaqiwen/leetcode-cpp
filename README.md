@@ -68,6 +68,7 @@ Leetcode solutions in C++.
 - [213. House Robber II](dynamic-programming/213-house-robber-ii.cpp)
 - [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
 ### 2D Basic <a name="dp-2d">
+- [62. Unique Paths](dynamic-programming/62-unique-paths.cpp)
 - [64. Minimum Path Sum](dynamic-programming/64-min-path-sum.cpp)
 - [221. Maximal Square](dynamic-programming/221-max-square.cpp)
 - [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
