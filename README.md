@@ -1,5 +1,9 @@
+<p align='center'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/458px-LeetCode_Logo_black_with_text.svg.png'>
+</p>
+
 # leetcode-cpp
-Leetcode solutions in C++.
+✅ Leetcode solutions in C++, all solutions are accepted.
 
 ## Contents 📦
 1. [Greedy Algorithms](#greedy)
@@ -21,83 +25,114 @@ Leetcode solutions in C++.
 7. [Divide and Conquer](#dac)
 
 ## Greedy Algorithms <a name="greedy">
-- [122. Best Time to Buy and Sell Stock II](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)
-- [135. Candy](greedy-algorithm/135-candy.cpp)
-- [452. Minimum Number of Arrows to Burst Balloons](greedy-algorithm/452-min-number-arrows.cpp)
-- [605. Can Place Flowers](greedy-algorithm/605-can-place-flowers.cpp)
-- [763. Partition Labels](greedy-algorithm/763-partition-labels.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|122|Best Time to Buy and Sell Stock II|[C++](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)|Easy|
+|122|Best Time to Buy and Sell Stock II|[C++](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)|Medium|
+|135|Candy|[C++](greedy-algorithm/135-candy.cpp)|Medium|
+|452|Minimum Number of Arrows to Burst Balloons|[C++](greedy-algorithm/452-min-number-arrows.cpp)|Medium|
+|605|Can Place Flowers|[C++](greedy-algorithm/605-can-place-flowers.cpp)|Medium|
+|763|Partition Labels|[C++](greedy-algorithm/763-partition-labels.cpp)|Medium|
 
 ## Double Pointers <a name="double-ptr">
-- [76. Minimum Window Substring](double-pointers/76-min-window-substring.cpp)
-- [142. Linked List Cycle II](double-pointers/142-linked-list-cycle-ii.cpp)
-- [167. Two Sum II - Input array is sorted](double-pointers/167-two-sum-ii.cpp)
-- [633. Sum of Square Numbers](double-pointers/633-sum-square-numbers.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|76|Minimum Window Substring|[C++](double-pointers/76-min-window-substring.cpp)|Medium|
+|142|Linked List Cycle II|[C++](double-pointers/142-linked-list-cycle-ii.cpp)|Medium|
+|167|Two Sum II - Input array is sorted|[C++](double-pointers/167-two-sum-ii.cpp)|Medium|
+|633|Sum of Square Numbers|[C++](double-pointers/633-sum-square-numbers.cpp)|Medium|
 
 ## Binary Search <a name="bin-search">
-- [4. Median of Two Sorted Arrays](binary-search/4-median-of-two-sorted-arr.cpp)
-- [34. Find First and Last Position of Element in Sorted Array](binary-search/34-first-last-pos-of-elem-in-arr.cpp)
-- [81. Search in Rotated Sorted Array II](binary-search/81-search-rotated-sorted-arr.cpp)
-- [154. Find Minimum in Rotated Sorted Array II](binary-search/154-find-min-in-rotated-sorted-arr.cpp)
-- [540. Single Element in a Sorted Array](binary-search/540-single-element-in-sorted-arr.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|4|Median of Two Sorted Arrays|[C++](binary-search/4-median-of-two-sorted-arr.cpp)|Medium|
+|34|Find First and Last Position of Element in Sorted Array|[C++](binary-search/34-first-last-pos-of-elem-in-arr.cpp)|Medium|
+|81|Search in Rotated Sorted Array II|[C++](binary-search/81-search-rotated-sorted-arr.cpp)|Medium|
+|154|Find Minimum in Rotated Sorted Array II|[C++](binary-search/154-find-min-in-rotated-sorted-arr.cpp)|Medium|
+|540|Single Element in a Sorted Array|[C++](binary-search/540-single-element-in-sorted-arr.cpp)|Medium|
 
 ## Sorting <a name="sorting">
-- [75. Sort Colors](sorting/75-sort-colors.cpp)
-- [215. Kth Largest Element in an Array](sorting/215-kth-largest-elem-in-arr.cpp)
-- [347. Top K Frequent Elements](sorting/347-top-k-frequent-elements.cpp)
-- [451. Sort Characters By Frequency](sorting/451-sort-chars-by-frequency.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|75|Sort Colors|[C++](sorting/75-sort-colors.cpp)|Medium|
+|215|Kth Largest Element in an Array|[C++](sorting/215-kth-largest-elem-in-arr.cpp)|Medium|
+|347|Top K Frequent Elements|[C++](sorting/347-top-k-frequent-elements.cpp)|Medium|
+|451|Sort Characters By Frequency|[C++](sorting/451-sort-chars-by-frequency.cpp)|Medium|
 
 ## Search <a name="search">
 ### DFS <a name="dfs">
-- [130. Surrounded Regions](search/130-surrounded-regions.cpp)
-- [257. Binary Tree Paths](search/257-binary-tree-paths.cpp)
-- [695. Max Area of Island](search/695-max-area-of-island.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|130|Surrounded Regions|[C++](search/130-surrounded-regions.cpp)|Medium|
+|257|Binary Tree Paths|[C++](search/257-binary-tree-paths.cpp)|Medium|
+|695|Max Area of Island|[C++](search/695-max-area-of-island.cpp)|Medium|
 ### Backtracking <a name="backtrack">
-- [37. Sudoku Solver](search/37-sudoku-solver.cpp)
-- [46. Permutations](search/46-permutations.cpp)
-- [51. N-Queens](search/51-n-queens.cpp)
-- [77. Combinations](search/77-combinations.cpp)
-- [79. Word Search](search/79-word-search.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|37|Sudoku Solver|[C++](search/37-sudoku-solver.cpp)|Medium|
+|46|Permutations|[C++](search/46-permutations.cpp)|Medium|
+|51|N-Queens|[C++](search/51-n-queens.cpp)|Medium|
+|77|Combinations|[C++](search/77-combinations.cpp)|Medium|
+|79|Word Search|[C++](search/79-word-search.cpp)|Medium|
 ### BFS <a name="bfs">
-- [126. Word Ladder II](search/126-word-ladder-ii.cpp)
-- [310. Minimum Height Trees](search/310-min-height-trees.cpp)
-- [934. Shortest Bridge](search/934-shortest-bridge.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|126|Word Ladder II|[C++](search/126-word-ladder-ii.cpp)|Medium|
+|310|Minimum Height Trees|[C++](search/310-min-height-trees.cpp)|Medium|
+|934|Shortest Bridge|[C++](search/934-shortest-bridge.cpp)|Medium|
 
 ## Dynamic Programming <a name="dp">
 ### 1D Basic <a name="dp-1d">
-- [198. House Robber](dynamic-programming/198-house-robber.cpp)
-- [213. House Robber II](dynamic-programming/213-house-robber-ii.cpp)
-- [413. Arithmetic Slices](dynamic-programming/413-arithmetic-slices.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|198|House Robber|[C++](dynamic-programming/198-house-robber.cpp)|Medium|
+|213|House Robber II|[C++](dynamic-programming/213-house-robber-ii.cpp)|Medium|
+|413|Arithmetic Slices|[C++](dynamic-programming/413-arithmetic-slices.cpp)|Medium|
 ### 2D Basic <a name="dp-2d">
-- [62. Unique Paths](dynamic-programming/62-unique-paths.cpp)
-- [63. Unique Paths II](dynamic-programming/63-unique-paths-ii.cpp)
-- [64. Minimum Path Sum](dynamic-programming/64-min-path-sum.cpp)
-- [221. Maximal Square](dynamic-programming/221-max-square.cpp)
-- [542. 01 Matrix](dynamic-programming/542-zero-one-matrix.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|62|Unique Paths|[C++](dynamic-programming/62-unique-paths.cpp)|Medium|
+|63|Unique Paths II|[C++](dynamic-programming/63-unique-paths-ii.cpp)|Medium|
+|64|Minimum Path Sum|[C++](dynamic-programming/64-min-path-sum.cpp)|Medium|
+|221|Maximal Square|[C++](dynamic-programming/221-max-square.cpp)|Medium|
+|542|01 Matrix|[C++](dynamic-programming/542-zero-one-matrix.cpp)|Medium|
 ### Dividing Problem <a name="dp-divide">
-- [91. Decode Ways](dynamic-programming/91-decode-ways.cpp)
-- [139. Word Break](dynamic-programming/139-word-break.cpp)
-- [279. Perfect Squares](dynamic-programming/279-perfect-squares.cpp)
-- [343. Integer Break](dynamic-programming/343-integer-break.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|91|Decode Ways|[C++](dynamic-programming/91-decode-ways.cpp)|Medium|
+|139|Word Break|[C++](dynamic-programming/139-word-break.cpp)|Medium|
+|279|Perfect Squares|[C++](dynamic-programming/279-perfect-squares.cpp)|Medium|
+|343|Integer Break|[C++](dynamic-programming/343-integer-break.cpp)|Medium|
 ### Subsequence Problem <a name="dp-subseq">
-- [32. Longest Valid Parentheses](dynamic-programming/32-longest-valid-parentheses.cpp)
-- [300. Longest Increasing Subsequence](dynamic-programming/300-longest-increasing-subseq.cpp)
-- [354. Russian Doll Envelopes](dynamic-programming/354-russian-doll-envelopes.cpp)
-- [376. Wiggle Subsequence](dynamic-programming/376-wiggle-subsequence.cpp)
-- [583. Delete Operation for Two Strings](dynamic-programming/583-delete-operation-two-strs.cpp)
-- [646. Maximum Length of Pair Chain](dynamic-programming/646-max-length-of-pair-chain.cpp)
-- [1143. Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|32|Longest Valid Parentheses|[C++](dynamic-programming/32-longest-valid-parentheses.cpp)|Medium|
+|300|Longest Increasing Subsequence|[C++](dynamic-programming/300-longest-increasing-subseq.cpp)|Medium|
+|354|Russian Doll Envelopes|[C++](dynamic-programming/354-russian-doll-envelopes.cpp)|Medium|
+|376|Wiggle Subsequence|[C++](dynamic-programming/376-wiggle-subsequence.cpp)|Medium|
+|583|Delete Operation for Two Strings|[C++](dynamic-programming/583-delete-operation-two-strs.cpp)|Medium|
+|646|Maximum Length of Pair Chain|[C++](dynamic-programming/646-max-length-of-pair-chain.cpp)|Medium|
+|1143|Longest Common Subsequence|[C++](dynamic-programming/1143-longest-common-subsequence.cpp)|Medium|
 ### Knapsack Problem <a name="dp-knapsack">
-- [322. Coin Change](dynamic-programming/322-coin-change.cpp)
-- [416. Partition Equal Subset Sum](dynamic-programming/416-partition-equal-subset-sum.cpp)
-- [474. Ones and Zeroes](dynamic-programming/474-ones-and-zeroes.cpp)
-- [494. Target Sum](dynamic-programming/494-target-sum.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|322|Coin Change|[C++](dynamic-programming/322-coin-change.cpp)|Medium|
+|416|Partition Equal Subset Sum|[C++](dynamic-programming/416-partition-equal-subset-sum.cpp)|Medium|
+|474|Ones and Zeroes|[C++](dynamic-programming/474-ones-and-zeroes.cpp)|Medium|
+|494|Target Sum|[C++](dynamic-programming/494-target-sum.cpp)|Medium|
 ### String Manipulation <a name="dp-str">
-- [10. Regular Expression Matching](dynamic-programming/10-regex-matching.cpp)
-- [72. Edit Distance](dynamic-programming/72-edit-distance.cpp)
-- [650. 2 Keys Keyboard](dynamic-programming/650-two-keys-keyboard.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|10|Regular Expression Matching|[C++](dynamic-programming/10-regex-matching.cpp)|Medium|
+|72|Edit Distance|[C++](dynamic-programming/72-edit-distance.cpp)|Medium|
+|650|2 Keys Keyboard|[C++](dynamic-programming/650-two-keys-keyboard.cpp)|Medium|
 ### Stock <a name="dp-stock">
-- [188. Best Time to Buy and Sell Stock IV](dynamic-programming/188-best-time-buy-sell-stock-iv.cpp)
-- [309. Best Time to Buy and Sell Stock with Cooldown](dynamic-programming/309-best-time-buy-sell-stock-with-cd.cpp)
-- [714. Best Time to Buy and Sell Stock with Transaction Fee](dynamic-programming/714-best-time-buy-sell-stock-with-fee.cpp)
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
+|188|Best Time to Buy and Sell Stock IV|[C++](dynamic-programming/188-best-time-buy-sell-stock-iv.cpp)|Medium|
+|309|Best Time to Buy and Sell Stock with Cooldown|[C++](dynamic-programming/309-best-time-buy-sell-stock-with-cd.cpp)|Medium|
+|714|Best Time to Buy and Sell Stock with Transaction Fee|[C++](dynamic-programming/714-best-time-buy-sell-stock-with-fee.cpp)|Medium|
 
 ## Divide and Conquer <a name="dac">
+| No. | Title | Solution | Difficulty |
+|:--------:|:--------------------------------------------------------------|:--------:|:--------:|
