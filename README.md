@@ -3,7 +3,7 @@
 </p>
 
 # leetcode-cpp
-✅ Leetcode solutions in C++, all solutions are accepted.
+✅ My LeetCode solutions in C++, all solutions are accepted.
 
 ## Contents 📦
 1. [Greedy Algorithms](#greedy)
@@ -21,7 +21,7 @@
     4. [Subsequence Problem](#dp-subseq)
     4. [Knapsack Problem](#dp-knapsack)
     5. [String Manipulation](#dp-str)
-    6. [Stock](#dp-stock)
+    6. [Stock Problem](#dp-stock)
 7. [Divide and Conquer](#dac)
 
 ## Greedy Algorithms <a name="greedy">
@@ -125,7 +125,7 @@
 |10|Regular Expression Matching|[C++](dynamic-programming/10-regex-matching.cpp)|Hard|
 |72|Edit Distance|[C++](dynamic-programming/72-edit-distance.cpp)|Hard|
 |650|2 Keys Keyboard|[C++](dynamic-programming/650-two-keys-keyboard.cpp)|Medium|
-### Stock <a name="dp-stock">
+### Stock Problem <a name="dp-stock">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
 |188|Best Time to Buy and Sell Stock IV|[C++](dynamic-programming/188-best-time-buy-sell-stock-iv.cpp)|Hard|
