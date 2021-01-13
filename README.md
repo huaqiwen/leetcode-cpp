@@ -135,3 +135,4 @@
 ## Divide and Conquer <a name="dac">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
+|241|Different Ways to Add Parentheses|[C++](divide-and-conquer/241-different-ways-add-parentheses.cpp)|Medium|
