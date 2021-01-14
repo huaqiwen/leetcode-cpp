@@ -136,3 +136,4 @@
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
 |241|Different Ways to Add Parentheses|[C++](divide-and-conquer/241-different-ways-add-parentheses.cpp)|Medium|
+|395|Longest Substring with At Least K Repeating Characters|[C++](divide-and-conquer/395-longest-substr-k-repeating-chars.cpp)|Medium|
