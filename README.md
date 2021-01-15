@@ -27,6 +27,7 @@
 ## Greedy Algorithms <a name="greedy">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
+|55|Jump Game|[C++](greedy-algorithm/55-jump-game.cpp)|Medium|
 |122|Best Time to Buy and Sell Stock II|[C++](greedy-algorithm/122-best-time-buy-sell-stock-ii.cpp)|Easy|
 |135|Candy|[C++](greedy-algorithm/135-candy.cpp)|Hard|
 |452|Minimum Number of Arrows to Burst Balloons|[C++](greedy-algorithm/452-min-number-arrows.cpp)|Medium|
