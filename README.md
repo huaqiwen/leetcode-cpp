@@ -144,4 +144,5 @@
 ## Others <a name="others">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
-|240|Search a 2D Matrix II|[C++](dynamic-programming/240-search-2d-matrix.cpp)|Medium|
+|240|Search a 2D Matrix II|[C++](other-questions/240-search-2d-matrix.cpp)|Medium|
+|769|Max Chunks To Make Sorted|[C++](other-questions/769-max-chunks-to-make-sorted.cpp)|Medium|
