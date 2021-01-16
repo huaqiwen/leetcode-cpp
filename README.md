@@ -23,6 +23,7 @@
     5. [String Manipulation](#dp-str)
     6. [Stock Problem](#dp-stock)
 7. [Divide and Conquer](#dac)
+8. [Others](#others)
 
 ## Greedy Algorithms <a name="greedy">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
@@ -139,3 +140,8 @@
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
 |241|Different Ways to Add Parentheses|[C++](divide-and-conquer/241-different-ways-add-parentheses.cpp)|Medium|
 |395|Longest Substring with At Least K Repeating Characters|[C++](divide-and-conquer/395-longest-substr-k-repeating-chars.cpp)|Medium|
+
+## Others <a name="others">
+| No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
+|:--------|:--------------------------------------------------------------|:--------:|:--------:|
+|240|Search a 2D Matrix II|[C++](dynamic-programming/240-search-2d-matrix.cpp)|Medium|
