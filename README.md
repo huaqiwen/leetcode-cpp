@@ -88,6 +88,7 @@
 |:--------|:--------------------------------------------------------------|:--------:|:--------:|
 |198|House Robber|[C++](dynamic-programming/198-house-robber.cpp)|Medium|
 |213|House Robber II|[C++](dynamic-programming/213-house-robber-ii.cpp)|Medium|
+|264|Ugly Number II|[C++](dynamic-programming/264-ugly-number-ii.cpp)|Medium|
 |338|Counting Bits|[C++](dynamic-programming/338-counting-bits.cpp)|Medium|
 |413|Arithmetic Slices|[C++](dynamic-programming/413-arithmetic-slices.cpp)|Medium|
 ### 2D Basic <a name="dp-2d">
