@@ -115,6 +115,7 @@
 |376|Wiggle Subsequence|[C++](dynamic-programming/376-wiggle-subsequence.cpp)|Medium|
 |583|Delete Operation for Two Strings|[C++](dynamic-programming/583-delete-operation-two-strs.cpp)|Medium|
 |646|Maximum Length of Pair Chain|[C++](dynamic-programming/646-max-length-of-pair-chain.cpp)|Medium|
+|1048|Longest String Chain|[C++](dynamic-programming/1048-longest-string-chain.cpp)|Medium|
 |1143|Longest Common Subsequence|[C++](dynamic-programming/1143-longest-common-subsequence.cpp)|Medium|
 ### Knapsack Problem <a name="dp-knapsack">
 | No. &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Solution | Difficulty |
